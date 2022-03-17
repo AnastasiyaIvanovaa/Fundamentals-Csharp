@@ -6,7 +6,9 @@ namespace _01.StudentInformation
     {
         static void Main(string[] args)
         {
+
             Console.WriteLine($"Name:{Console.ReadLine()}, Age: {Console.ReadLine()}, Grade: {Console.ReadLine()}");
+
         }
     }
 }
